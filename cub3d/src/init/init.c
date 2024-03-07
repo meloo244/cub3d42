@@ -6,11 +6,11 @@
 /*   By: mmarie <mmarie@student.42perpignan.fr>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/19 16:53:15 by chbouthe          #+#    #+#             */
-/*   Updated: 2024/03/07 16:54:43 by mmarie           ###   ########.fr       */
+/*   Updated: 2024/03/07 17:01:26 by mmarie           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-include "../../includes/cub3d.h"
+#include "../../includes/cub3d.h"
 
 int	is_empty_file(int fd)
 {
